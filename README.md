@@ -6,6 +6,7 @@ We're preparing the first one for Friday, 26 May, 15:00-16:00 CET (to be confirm
 Recordings will be published. Participation is free of charge.
 
 Presenter: Jochen Staerk (mustangproject.org)
+
 Agenda: 
 1. Round of introductions participants
 2. Round of introductions open source projects
