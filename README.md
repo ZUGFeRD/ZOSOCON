@@ -5,6 +5,8 @@ The BiMon-ZOSOCON is a ZUGFeRD Open Source Online Conference held in two-months 
 We're preparing the first one for Friday, 26 May, 15:00-16:00 CET (to be confirmed). 
 Recordings will be published. Participation is free of charge.
 
+[Sign up](mailto:zosocon@zugferd.org?subject=participation)
+
 Presenter: Jochen Staerk (mustangproject.org)
 
 Agenda: 
