@@ -14,5 +14,6 @@ Presenter: Jochen Staerk (mustangproject.org)
 Agenda: 
 1. Round of introductions participants
 2. Round of introductions open source projects
-3. Who would like to contribute to which project and how could that be facilitated?
-4. Technical questions and assistance
+3. Short (max 10min) live demo of current status of Zox, Corpus and ZUV
+4. Who would like to contribute to which project and how could that be facilitated?
+5. Technical questions and assistance
