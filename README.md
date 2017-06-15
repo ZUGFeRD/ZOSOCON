@@ -1,8 +1,14 @@
 # ZOSOCON
 The BiMon-ZOSOCON is a ZUGFeRD Open Source Online Conference held in two-months intervals in english.
 
+## Last one
+
+Was on Friday, 26 May, 15:00-16:00 CET 54min 136MB [recording](http://mustangproject.org/zosocon/2017-05-26-ZOSOCON-1.mp4). 
+
+
 ## Next one
-We're preparing the first one for Friday, 26 May, 15:00-16:00 CET. 
+
+We're preparing the first one for Monday, 24 July, 15:00-16:00 CET. 
 
 
 Recordings will be published. Participation is free of charge.
