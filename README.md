@@ -8,7 +8,8 @@ Was on Friday, 26 May, 15:00-16:00 CET 54min 136MB [recording](http://mustangpro
 
 ## Next one
 
-We're preparing the first one for Monday, 24 July, 15:00-16:00 CET. 
+We're preparing the second for Monday, 24 July, 15:00-16:00 CET via https://global.gotomeeting.com/join/230075909 
+ 
 
 
 Recordings will be published. Participation is free of charge.
