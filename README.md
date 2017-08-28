@@ -9,6 +9,8 @@ The BiMon-ZOSOCON is a ZUGFeRD Open Source Online Conference held in two-months 
 ## Next one
 
 Will happen on a Friday or Saturday in September if enough participants express their interest (and leave their email for the invitation link) https://doodle.com/poll/cwmvbezt94bwzzux
+
+RSVP by September 9th, 2017.
  
 
 Recordings will be published. Participation is free of charge.
