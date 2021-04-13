@@ -7,4 +7,4 @@ The ZOSOCON is a ZUGFeRD Open Source Online Conference held in english. It's a f
 2. the second was second on Monday, 24 July, 15:00-16:00 CET and focused on ZUV (ZUGFerd Valdidator)
 3. the third was on May 1st, 2018 and again focussed on validation of ZUGFeRD files.
 
-Currently no ZOSOCON is planned.
+The fourth ZOSOCON will be held in April 2021 ([registration](https://forms.gle/dcmR4gaJDDrfmjJh9))
