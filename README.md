@@ -9,7 +9,7 @@ The ZOSOCON is a ZUGFeRD Open Source Online Conference held in english. It's a f
 
 The fourth ZOSOCON will take place on 29 April 2021, 10-12:00 CET [on unhangout](https://unhangout.media.mit.edu/event/zosocon/).
 
-The language will be english, the event will take two hours. The selected date/time will be communicated.
+The language will be english, the event will take two hours.
 
 You will not be required to speak up at all but if you want to, and the audience wants to listen, you will get the opportunity: As usual for barcamps, the first agenda item is the estabilshment of an agenda, i.e. all participants will be asked if they wish to contribute a session, and the audience will vote which sessions will be hold. You will be able to offer -or ask for- convetional speeches, workshops or problem-solving workshops ("can someone please explain to me how...").
 
